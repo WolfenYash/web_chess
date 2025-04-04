@@ -1,0 +1,15 @@
+body {
+    background-color: lightyellow;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+.chess-logo {
+    font-size: 33vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 33vh;
+    transition: transform 0.5s ease-in-out, color 0.5s;
+    cursor: pointer;
+}
